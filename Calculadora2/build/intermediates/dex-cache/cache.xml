@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\java\android\Projetos\Calculadora2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a237f46a43827f4b78970a7f07c0c4a661349c86">
+        <dex dex="D:\java\android\Projetos\Calculadora2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8ad377d6cd076c3c726a2e5b21266a4fea41d616\classes.dex" />
+    </item>
+    <item
+        jar="D:\java\android\Projetos\Calculadora2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\java\android\Projetos\Calculadora2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_b807bfaee5bd796065dde10aab7816b686f59587\classes.dex" />
+    </item>
+    <item
+        jar="D:\java\android\Projetos\Calculadora2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\java\android\Projetos\Calculadora2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_74a9aa30f1389f99983b9dfee524f80766659af3\classes.dex" />
+    </item>
+    <item
+        jar="D:\java\android\Projetos\Calculadora2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\java\android\Projetos\Calculadora2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_f84f3e363556810a6d0bde32ede80387eff0734a\classes.dex" />
+    </item>
+    <item
+        jar="D:\java\android\Projetos\Calculadora2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\java\android\Projetos\Calculadora2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_da43f4881975318ecadfdcb100681ec84b404577\classes.dex" />
+    </item>
+    <item
+        jar="D:\java\android\Projetos\Calculadora2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\java\android\Projetos\Calculadora2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_2786756939177b1eb4847e8ae723c1fb90056a1a\classes.dex" />
+    </item>
+    <item
+        jar="D:\java\android\sdk\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\java\android\Projetos\Calculadora2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_64c57dc7dadd8507d93ac8c47973b7cb0a09c5f3\classes.dex" />
+    </item>
+    <item
+        jar="D:\java\android\Projetos\Calculadora2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="bb19451cb612f8e69eb31064e775a7cd306cc06c">
+        <dex dex="D:\java\android\Projetos\Calculadora2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0dc534e7eb2112cd841b68424104f3af44ac65fa\classes.dex" />
+    </item>
+
+</items>
