@@ -29,15 +29,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
         //validar nome
-                if(nome.getText().length() == 0){
-
-                    nome.setError("Campo vazio");
-
-                }else if (nome.getText().length() < 5){
-
-                    nome.setError("Minimo 5 letras");
-
-                }
+                validarNome();
         //validar idade
                 String idade = idade1.getText().toString();
                 int idade2 = Integer.parseInt(idade);
@@ -71,6 +63,17 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
+        public void validarNome(){
+            if(nome.getText().length() == 0){
+
+                    nome.setError("Campo vazio");
+
+                }else if (nome.getText().length() < 5){
+
+                    nome.setError("Minimo 5 letras");
+
+                }
+        }
 
 
     }
