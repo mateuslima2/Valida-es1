@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     EditText email=(EditText) findViewById(R.id.edt_email);
     Button ok;
     // CheckBox generoMasc = (CheckBox) findViewById(R.id.genero_masc);
-  //  CheckBox generoFem = (CheckBox) findViewById(R.id.genero_fem);
+    //  CheckBox generoFem = (CheckBox) findViewById(R.id.genero_fem);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -57,24 +57,17 @@ public class MainActivity extends AppCompatActivity {
 
             //WTF
 
-
-
-
         });
-
 
         public void validarNome(){
             if(nome.getText().length() == 0){
 
                     nome.setError("Campo vazio");
+                    
+            }else if (nome.getText().length() < 5){
 
-                }else if (nome.getText().length() < 5){
-
-                    nome.setError("Minimo 5 letras");
-
-                }
+                    nome.setError("Minimo 5 letras");	
+			}
         }
-
-
     }
 }
